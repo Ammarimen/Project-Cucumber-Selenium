@@ -13,6 +13,7 @@ public class Setup {
 
 	public static WebDriver driver;
 	static DriverManager driverManager;
+	
 	@Before
 	/**
 	 * Call browser with the design pattern factory navigator
@@ -22,6 +23,7 @@ public class Setup {
 		driver = driverManager.getDriver();
 
 	}
+	
 	@After
 	/**
 	 * Embed a screenshot in test report if test is marked as failed

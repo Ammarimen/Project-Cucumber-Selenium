@@ -1,0 +1,5 @@
+2021-02-08 17:26:49,779 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
+2021-02-08 17:26:52,577 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisie le username
+2021-02-08 17:26:52,671 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Je saisie le password
+2021-02-08 17:26:52,743 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - je clique sur le bouton Login
+2021-02-08 17:26:56,595 - com.orangeHRM.e2eTests.utils.AbstractPage - INFO - Redirection vers le compte admin
